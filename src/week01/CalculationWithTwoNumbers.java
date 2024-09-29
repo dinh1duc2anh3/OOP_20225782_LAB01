@@ -2,7 +2,7 @@ package week01;
 
 import javax.swing.JOptionPane;
 
-public class CalculatationWith2Numbers {
+public class CalculationWithTwoNumbers{
 	public static void main(String[] args) {
 		String strNum1,strNum2;
 		String strSum = " Sum of two numbers is ";
